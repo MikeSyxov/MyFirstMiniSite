@@ -1,0 +1,21 @@
+
+p1 {
+	color: rgb(98, 56, 56);
+	font-size: 22px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-color: rgb(205, 189, 144);
+}
+
+ol {
+	background-color: rgb(158, 191, 240);
+	background: fixed 200*200;
+}
+
+li {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+img {
+	border-radius: 30px;
+}
